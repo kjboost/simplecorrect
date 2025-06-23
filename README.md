@@ -1,4 +1,4 @@
-# Text Correction (Bedrock + CDK)
+# Text Correction (Bedrock + CDK) まだforkしたままで見直し必要です
 
 CloudShell でデプロイできる “テキスト校正アプリ” です。  
 アップロードしたテキストを **Amazon Bedrock – Nova Micro** に渡してフィラーを除去し、ダウンロード可能なテキストファイルを生成します。
